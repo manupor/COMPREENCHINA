@@ -355,3 +355,5 @@ code {
 	color: #ca1f26;
 	background-color: rgba(202, 31, 38, .1);
 }
+/* Hide preloader overlay when JS is unavailable */
+.preloader{display:none !important;}
